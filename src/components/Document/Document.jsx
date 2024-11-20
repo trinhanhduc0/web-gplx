@@ -72,6 +72,7 @@ function DocumentSection() {
               Ôn Tập Thi Thử Lý Thuyết Lái Xe
             </h3>
             <a
+              target="_blank"
               href="https://gplx-web-mvc-production.up.railway.app/"
               className="bg-blue-500 text-white px-6 py-3 rounded-lg text-lg hover:bg-blue-600 hover:text-white transition inline-block animate-bounce"
             >
