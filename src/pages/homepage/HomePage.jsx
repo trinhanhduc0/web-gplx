@@ -20,7 +20,7 @@ const HomePage = () => {
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold text-center mb-6">Liên Hệ</h2>
           <p className="text-lg text-gray-700 text-center">
-            Hotlin/Zalo:{" "}
+            Hotline/Zalo:{" "}
             <span className="font-semibold">0901 985 978 (Mr. Chung)</span>
           </p>
           <p className="text-lg text-gray-700 text-center">
